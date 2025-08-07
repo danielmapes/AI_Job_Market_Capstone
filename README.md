@@ -6,10 +6,15 @@ The goal is to identify and model patterns that can inform job seekers, educator
 Analysis Sections:
 
 -Initial Data Exploration & Cleaning
+
 -Global Trends
+
 -Employment Type Trends
+
 -Skills & Experience Demand Trends
+
 -Industry & Company Trends
+
 -Time Series & Hiring Urgency
 
 Source:
